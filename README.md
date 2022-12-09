@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zhangerjun
 - 👀 I’m interested in dMRI and machine learning;
 - 🌱 I’m currently learning decomposition methods of MRI;
-# - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: send email to me (erjun.zhang@hotmail.com)
 
 <!---
