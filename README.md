@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhangerjun
 - 👀 I’m interested in dMRI and machine learning;
-- 🌱 I’m currently learning decomposition methods of MRI;
-- 📫 How to reach me: send email to me (erjun.zhang@hotmail.com)
+- 🌱 I’m currently working on dMRI models and decomposition methods;
+- 📫 How to reach me: emails will be welcome (find email address on the left panel).
 
 <!---
 zhangerjun/zhangerjun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
