@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zhangerjun
 - 👀 I’m interested in dMRI and machine learning;
 - 🌱 I’m currently working on dMRI models and decomposition methods;
+- 🌱 I’m currently recruiting colaborators about machine learning algorithm development;
 - 📫 How to reach me: emails will be welcome (find email address on the left panel).
 
 <!---
