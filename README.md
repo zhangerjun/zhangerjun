@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @zhangerjun
 - 👀 I’m a PhD-trained biomedical researcher working on **neonatal diffusion MRI (dMRI)** methods and quantitative biomarkers for **preterm brain development and injury**.
+- 🌱 What I do
+-- **Diffusion MRI modeling:** microstructure / spectrum-based modeling (e.g., DBM) and decomposition-based analysis  
+-- **Neonatal neuroimaging pipelines:** QC, preprocessing, registration, atlas-informed ROI analyses, and segmentation  
+-- **Machine learning:** clinically robust analysis under low-SNR / constrained acquisitions
 - 🌱 I’m currently working on dMRI models and decomposition methods;
 - 🌱 I’m currently recruiting colaborators about machine learning algorithm development;
 - 📫 How to reach me: emails will be welcome (find email address on the left panel).
 
-### What I do
-- **Diffusion MRI modeling:** microstructure / spectrum-based modeling (e.g., DBM) and decomposition-based analysis  
-- **Neonatal neuroimaging pipelines:** QC, preprocessing, registration, atlas-informed ROI analyses, and segmentation  
-- **Machine learning:** clinically robust analysis under low-SNR / constrained acquisitions
+
 
 ### I’m open to collaborations on
 - dMRI modeling & quantitative biomarkers for neonatal / pediatric cohorts  
