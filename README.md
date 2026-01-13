@@ -4,7 +4,7 @@
   * Diffusion MRI modeling  
   * Neonatal neuroimaging pipelines  
   * Machine-learning-based brain structure segmentation
-- 🌱 I’m open to collaborations on diffusion MRI model applicatons, reproducible pipelines (Python) and translation to open-source tools;
+- 🌱 I’m open to collaborations on diffusion MRI model applicatons, reproducible pipelines and translation to open-source tools;
 - 📫 How to reach me: emails will be welcome (find email address on the left panel).
 
 <!---
