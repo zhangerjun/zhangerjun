@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhangerjun
-- 👀 I’m a PhD-trained biomedical researcher working on diffusion MRI (dMRI) methods and quantitative biomarkers for neonatal brain development and injury.
+- 👀 I’m a PhD-trained biomedical researcher working on diffusion MRI and quantitative biomarkers for neonatal brain development and injury.
 - 🌱 What I do
   * Diffusion MRI modeling  
   * Neonatal neuroimaging pipelines  
