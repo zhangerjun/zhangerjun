@@ -4,16 +4,9 @@
 -- **Diffusion MRI modeling:** microstructure / spectrum-based modeling (e.g., DBM) and decomposition-based analysis  
 -- **Neonatal neuroimaging pipelines:** QC, preprocessing, registration, atlas-informed ROI analyses, and segmentation  
 -- **Machine learning:** clinically robust analysis under low-SNR / constrained acquisitions
-- 🌱 I’m currently working on dMRI models and decomposition methods;
-- 🌱 I’m currently recruiting colaborators about machine learning algorithm development;
+- 🌱 I’m currently working on Diffusion MRI modeling, Neonatal neuroimaging pipelines and use machine learning to segment neonatal brain structures;
+- 🌱 I’m open to collaborations on diffusion MRI model applicatons, reproducible pipelines (Python) and translation to open-source tools;
 - 📫 How to reach me: emails will be welcome (find email address on the left panel).
-
-
-
-### I’m open to collaborations on
-- dMRI modeling & quantitative biomarkers for neonatal / pediatric cohorts  
-- Segmentation-informed analyses (weakly supervised / limited labels)  
-- Reproducible pipelines (Python) and translation to open-source tools
 
 <!---
 zhangerjun/zhangerjun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
